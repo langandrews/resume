@@ -1,83 +1,73 @@
-# David Hamp-Gonsalves
-## Senior Developer & Code Enthusiast
+# Andrew Lang
 
-> [davidhampgonsalves.com](http://www.davidhampgonsalves.com)
-> [davidhampgonsalves@gmail.com](mailto:davidhampgonsalves@gmail.com)
-> (902) 817-3574
+> [andrew.lang19@gmail.com](mailto:andrew.lang19@gmail.com)
+> (734) 834-2980
 
 ------
 
-### Technical
+### Skills
 
-1. Java
-1. Android / iOS
-1. Javascript / NodeJS
 1. Python
-1. Git / SVN
-1. Cordova
-<!-- 1. Spring / Wicket -->
-1. Ruby
-<!-- 1. Weblogic / Websphere -->
-<!-- 1. Tomcat / Jetty -->
-<!-- 1. Oracle DB / MSSQL -->
-1. PostgreSQL / MySQL
-1. Backbone.js
+2. Javascript/NodeJS
+3. Advanced Linux experience
+1. Java
+2. Vue.js
+3. Bash scripting
+1. C#
+2. Android
+3. Git
 
 ------
 
 ### Experience
 
-**NTTData** *Senior Consultant* __2012 to present__
-	Designed Backbone.js based application to replace and improve upon existing legacy system.
-	Introduced BDD style testing using Jasmine/Karma into existing application code.
-	Developed modern solutions and features for large Enterprise Java systems.
-	Collaborated with and guided global team members transitioning to client side architecture.
-	**Technical Environment** Backbone.js, Jasmine.js, Coffeescript, SpringSource, Tomcat.
+TEKsystems Inc
+ *Software Engineer at Ford Credit*
+ __2018-Present__
+ On the My Next Vehicle (MNV) team in Ford Credit's Digital Marketing division. MNV is a dynamic marketing web application aimed at selling Ford Vehicles, running on a Spring Boot (Java) backend.
+ I personally spearheaded the development of our new frontend written in Vue.js.
 
-**Sumtotal Systems** *Senior Java Developer* __2008 to 2012__
-	Designed and implemented features and improvements for multiple enterprise sized applications.
-	Automated manual report generation for legacy ticketing system to provide reliable team analytics.
-	Provided quality solutions to mission critical production issues in a timely manner.
-	Proposed, designed and implemented a realtime tracking, deployment and notification system for test environments.
-	**Technical Environment** Weblogic/Websphere, SpringSource/Wicket, MSSQL/Oracle, JUnit.
+Robert Bosch LLC
+ *Software Development Intern, CM/NA Division*
+ __2017-2018__
+ Worked on the Software Demonstration team for an infotainment system prototype. I helped create custom Yocto Linux kernels using bitbake, and also developed two separate UXs with C++/Qt and Android. This project was shown in Bosch's showcase at CES 2018.
+ Developed an Android app to demonstrate V2X (Vehicle to anything) communication capability in a vehicle.
 
-**We Can Pretend** *Technical Consultant* __2011__
-	Architected and implemented a interactive media streaming service that enabled realtime, massively multiplayer, jeopardy-style interactions.
-	Built host interface to inject synchronized prompts, overlays and widgets into live video stream.
-	Created detailed documentation regarding technical requirements, project time lines and staffing guidelines for realizing total product offering.
-	**Technical Environment** Wowza Media Server, Adobe Flex, Javascript.
+Robert Bosch LLC
+ *Summer Intern, CM/NA Division*
+ __2016__
+ Created a Windows Forms application (C#) to read/write various calibration files from General Motors infotainment systems, and display them in a human-readable format
+ Created a dashboard applaication for in-department asset management
 
-<!--
-**Redline Distribution** *Web Application Developer* __2008__
-	Wrote a versatile Java EE based, database-driven, e-commerce system for the real time sale, processing and shipping of products available from external distributors such as Baker-Taylor and DeepDiscount.
-	The system interfaced with external distributors to ensure current inventory, status and price and used AJAX rich components to improve usability, convenience and efficiency.
-	**Technical Environment** JBoss, Seam, MySQL, Hibernate, JSF, RichFaces, EJB.
--->
-
-**CIBC** *Test Analyst* __2007 to 2008__
-	Eliminated manual testing processes with automated QTP scripts to increase productivity and limit repetitive human task based testing.
-	Worked cohesively with other developers and team members to plan, design and implement multi-system automated tests which simulate multiple users and roles.
-	**Technical Environment** VB, Quick Test Professional.
-
-------
-
-### Projects
-
-* **Ethical Barcode**
-	<a href=http://www.ethicalbarcode.com class=not-printed>ethicalbarcode.com</a>
-	Cordova based app(iOS & Android) that leverages a huge amalgamation of public data. Driven by over 30 web spiders, 15 webservices and multiple external databases it provides brand ratings from non-profit organisations by scanning product barcodes.
-
-* **Halifax Crime Heatmap**
-	<a href=http://www.crimeheatmap.ca class=not-printed>crimeheatmap.ca</a>
-	HTML5 Animated heatmap visualising crimes in the city of Halifax. Built on a customised version Heatmap.js library which enables smooth animation. Won silver in the [Apps4Halifax](http://apps4halifax.ca/) city category.
-
-* **Foxish**
-	<a href=https://chrome.google.com/webstore/detail/jpgagcapnkccceppgljfpoadahaopjdb class=not-printed>chrome.google.com</a>
-	Chrome extension that enables Firefox-style live RSS feeds with over fifteen thousand active users a 4/5 star rating. Featured on [Gizmodo](http://gizmodo.com/5609633/10-add+ons-you-have-to-know-about-for-google-chrome) & [LifeHacker](http://lifehacker.com/5603602/foxish-live-rss-adds-live-bookmarks-to-google-chrome).
+Calvin College
+ *CIT HelpDesk Technician*
+ __2014-2017__
+ Provided technical support for Calvin-owned technology for faculty/staff
 
 ------
 
 ### Education
 
-**Bachelor of Technology (Software Development)** __2003 to 2007__
-	Seneca College of Applied Arts and Technology (Seneca@York), Toronto, Ontario
+BCS, Computer Science __2014-2017__
+  Calvin College, Grand Rapids, MI
+  *ABET accredited*
+
+------
+
+### References
+
+**Elizabeth Sankaran, Ford Credit**
+IT Systems Analyst
+[esankara@ford.com](mailto:esankara@ford.com)
+Cell (248) 921-9010
+
+**Robert Henigan, Ford Credit**
+Software Engineer
+[rheniga1@ford.com](mailto:rheniga1@ford.com)
+Cell (586) 481-5704
+
+**Philip Ventimiglia, Robert Bosch LLC**
+Product Manager
+[Philip.Ventimiglia@us.bosch.com](mailto:Philip.Ventimiglia@us.bosch.com)
+Office (248) 876-5785
+
